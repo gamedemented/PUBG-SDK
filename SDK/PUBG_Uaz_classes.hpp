@@ -17,7 +17,7 @@ namespace Classes
 class AUaz_C : public AVehicleBase_C
 {
 public:
-	class USphereComponent*                            Sphere4;                                                  // 0x0880(0x0008) (CPF_BlueprintVisible, CPF_ZeroConstructor, CPF_IsPlainOldData)
+	class USphereComponent*                            Sphere4;                                                 // 0x0880(0x0008) (CPF_BlueprintVisible, CPF_ZeroConstructor, CPF_IsPlainOldData)
 	class UVehicleSeatInteractionComponent*            PassengerBCSeat;                                          // 0x0888(0x0008) (CPF_BlueprintVisible, CPF_ZeroConstructor, CPF_IsPlainOldData)
 	class USphereComponent*                            Sphere3;                                                  // 0x0890(0x0008) (CPF_BlueprintVisible, CPF_ZeroConstructor, CPF_IsPlainOldData)
 	class UVehicleSeatInteractionComponent*            PassengerBRSeat;                                          // 0x0898(0x0008) (CPF_BlueprintVisible, CPF_ZeroConstructor, CPF_IsPlainOldData)
